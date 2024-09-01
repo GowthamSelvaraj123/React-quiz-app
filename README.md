@@ -53,14 +53,6 @@ npm start</code></pre>
         </ul>
     </div>
     <div class="section">
-        <h2>Contributing</h2>
-        <p>Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes. For more details, refer to the <a href="CONTRIBUTING.md" target="_blank">CONTRIBUTING.md</a> file.</p>
-    </div>
-    <div class="section">
-        <h2>License</h2>
-        <p>This project is licensed under the MIT License - see the <a href="LICENSE" target="_blank">LICENSE</a> file for details.</p>
-    </div>
-    <div class="section">
         <h2>Acknowledgments</h2>
         <ul>
             <li>React Team for creating React.</li>
