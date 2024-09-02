@@ -1,4 +1,8 @@
    <h1>React Quiz Demo</h1>
+   <h2>Quiz List Page</h2>
+   <img src="https://github.com/user-attachments/assets/b6d25da9-e6d9-45af-8ed0-fa0bc888198f">
+   <h2>Quiz Complete</h2>
+   <img src="https://github.com/user-attachments/assets/ea28ad40-f372-47a6-83bd-1ed9568cd1f3">
     <div class="section">
         <h2>Features</h2>
         <ul>
